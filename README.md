@@ -1,4 +1,4 @@
-# chint_pm
+# chint_pm - fork to Michael
 homeassistant Chint power meter integration
 
 Changes note:
